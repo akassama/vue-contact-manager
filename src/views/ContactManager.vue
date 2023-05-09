@@ -39,7 +39,7 @@
                 <div class="col-sm-7 mt-1">
                     <ul class="list-group">
                       <li class="list-group-item">
-                        Name: <span class="fw-bold">Laimna</span>
+                        Name: <span class="fw-bold">Laiman</span>
                       </li>
                       <li class="list-group-item">
                         Email: <span class="fw-bold">akassama@yahoo.com</span>

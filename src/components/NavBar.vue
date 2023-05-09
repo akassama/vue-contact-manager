@@ -5,16 +5,10 @@
       <div class="collapse navbar-collapse">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <router-link class="nav-link" to="/counter">Counter</router-link>
+            <router-link class="nav-link" to="/contacts">Contacts</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" to="/employees">Employees</router-link>
-          </li>
-          <li class="nav-item">
-            <router-link class="nav-link" to="/users">User List</router-link>
-          </li>
-          <li class="nav-item">
-            <router-link class="nav-link" to="/new-form">New Form</router-link>
+            <router-link class="nav-link" to="/contacts/add">Add Contact</router-link>
           </li>
         </ul>
       </div>

@@ -30,7 +30,7 @@ const routes = [
     component: EditContact
   },
   {
-    path: '/contacts/edit/:contactId',
+    path: '/contacts/view/:contactId',
     name: 'ViewContact',
     component: ViewContact
   },
